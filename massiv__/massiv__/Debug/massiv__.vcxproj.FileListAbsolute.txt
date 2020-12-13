@@ -1,0 +1,3 @@
+C:\Users\iljab\source\repos\massiv__\massiv__\Debug\massiv__.vcxprojAssemblyReference.cache
+C:\Users\iljab\source\repos\massiv__\massiv__\Debug\massiv.MyForm.resources
+C:\Users\iljab\source\repos\massiv__\massiv__\Debug\massiv__.vcxproj.GenerateResource.cache

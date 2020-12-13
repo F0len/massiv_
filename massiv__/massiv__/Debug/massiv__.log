@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\iljab\source\repos\massiv__\massiv__\MyForm.cpp(9,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\iljab\source\repos\massiv__\massiv__\MyForm.cpp(25,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\iljab\source\repos\massiv__\massiv__\MyForm.cpp(71,11): warning C4101: j: неиспользованная локальная переменная
+C:\Users\iljab\source\repos\massiv__\massiv__\MyForm.cpp(71,8): warning C4101: i: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  massiv__.vcxproj -> C:\Users\iljab\source\repos\massiv__\Debug\massiv__.exe
